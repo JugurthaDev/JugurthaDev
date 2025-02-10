@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://www.jugurtha.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jugurtha.tech-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jugurtha-saada/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jugurtha%20Saada-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jugurtha-saada/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jugurtha%20S.-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:contact@jugurtha.tech"><img alt="Email" src="https://img.shields.io/badge/Email-contact@jugurtha.tech-blue?style=flat-square&logo=gmail"></a>
 </p>
 
